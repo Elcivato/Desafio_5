@@ -84,7 +84,7 @@ footer {
     padding: 10px;
     margin: 10px;
     transition: all .5s;
-    background-color: gray;
+    background-color: rgb(110, 101, 101);
 }
 
 .field:focus {
@@ -96,6 +96,7 @@ footer {
 }
 
 .btn {
+    width: 100%;
     border-radius: 3px;
     display: inline-block;
     padding: 20px 15px;
