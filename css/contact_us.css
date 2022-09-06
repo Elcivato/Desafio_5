@@ -6,7 +6,6 @@
 
 header {
     display: flex;
-    background-color: black;
     color: white;
     font-style: italic;
     flex-direction: row;
@@ -16,6 +15,9 @@ header {
 
 body {
     background-color: black;
+    background-image: url(../assets/images/pexels-malidate-van-784632.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     z-index: 1;
 }
 
